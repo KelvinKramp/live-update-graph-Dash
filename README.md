@@ -4,8 +4,8 @@ This code is supposed to solve the reload webpage problem if you use the Dash co
 consequence of the data being created in the callback. It causes the data to update at every webpage load. 
 If your placing your Dash live-update graph online and your callback is retrieving  extra information at 
 every callback then if multiple people to acces it or you try to access it on multiple computers 
-this will cause you app to shift into the future... :-D. It sounds funny, but its not if you try to find
-a couple of houres. 
+this will cause you app to shift into the future... :-D. It sounds funny, but its not anymore if you 
+have tried to find the problem for a couple of houres... 
 
 For the wonderfull sentdex explanation of creating live update graphs in Dash see:
 https://www.youtube.com/watch?v=37Zj955LFT0
